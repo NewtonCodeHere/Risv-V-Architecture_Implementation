@@ -1,0 +1,22 @@
+# Simulation output files
+*.vvp
+*.vcd
+*.log
+*.wlf
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# EDA tool build directories
+work/
+transcript
+vsim.wlf
+*.jou
+*.pb
+.Xil/
+xsim.dir/
+
+# OS files
+Thumbs.db
+.DS_Store
